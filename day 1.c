@@ -12,7 +12,7 @@ natural numbers.***
 int main() {
      int n, sum = 0;
 
-    printf("Enter a positive integer : ");
+    printf("Enter a positive integer N : ");
     scanf("%d", &n);
     sum = n * (n + 1) / 2;
 
